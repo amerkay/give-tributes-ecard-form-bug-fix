@@ -11,7 +11,7 @@ Bug happens with the following setup:
 
 React's conditional field logic doesn't trigger on initial render when the default value is already set to "send".
 
-![screencast](https://github.com/amerkay/give-tributes-ecard-form-bug-fix/raw/refs/heads/main/public/screencast.mp4)
+<video src="https://github.com/amerkay/give-tributes-ecard-form-bug-fix/raw/refs/heads/main/public/screencast.mp4" controls></video>
 
 ## The Solution
 
